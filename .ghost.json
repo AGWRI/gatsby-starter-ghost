@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://thawhakyi-tk.herokuapp.com/",
+    "apiUrl": "https://thawhakyi-tk.herokuapp.com",
     "contentApiKey": "73b4907e4755b3ff5db053f3c4"
   },
   "production": {
-    "apiUrl": "https://thawhakyi-tk.herokuapp.com/",
+    "apiUrl": "https://thawhakyi-tk.herokuapp.com",
     "contentApiKey": "73b4907e4755b3ff5db053f3c4"
   }
 }
